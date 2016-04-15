@@ -1,0 +1,13 @@
+div{
+        border:1px red solid;
+}
+.contactView{
+    /*display:inline-block;*/
+    float:right;
+}
+
+.mainForm{
+    float:left;
+    /*display:inline-block;*/
+
+}
